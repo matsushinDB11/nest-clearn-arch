@@ -1,0 +1,6 @@
+/dist
+node_modules
+package.json
+tsconfig.json
+tsconfig.build.json
+**/.eslintrc.js
